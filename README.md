@@ -1,5 +1,15 @@
+## 我是WindyQin
+
+- 🐧 熟练大数据架构，数据仓库，数据分析，研究过MPP数据库，也做过数据产品，欢迎来交流~
+- 🌱 热爱分享 <a href="https://mp.weixin.qq.com/s?__biz=MzI4MzE4MjQxOQ==&mid=2649364443&idx=3&sn=ce748f9966f79e4ee07b14c6f56c14b0&chksm=f39023e7c4e7aaf108aa1d5cf9153fc020cb402727b83f43862f99d6fe738277c80c5ec022d2&token=131764335&lang=zh_CN#rd" target="_blank">公众号『 数据社 』</a>
+- 😺 趣讲技术：<a href="https://blog.csdn.net/WindyQCF" target="_blank">CSDN 数据社</a> 
+- 💬 有问题欢迎加我微信：dataclub_bigdata
 ## 欢迎关注公众号：数据社
 ![](https://mmbiz.qpic.cn/mmbiz_png/z2DApiaibzMicicjiccLAibDxc3jzFr1RLnMh7RPgIsXXib0Nl4hh3fo9SOm1K3iaPS97lic4VPqjiaKN9Iia11yKDpahI0zg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+## 新年汇总 ✨
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=qinchaofeng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinchaofeng&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
 
 ### 【学习笔记】
 [Spark学习笔记](https://mp.weixin.qq.com/s?__biz=MzI4MzE4MjQxOQ==&amp;mid=2649363759&amp;idx=1&amp;sn=1084987dc35d952eff71e14720b2da3c&amp;chksm=f3902113c4e7a8059cd19d12f2090ba8e204ca4b3821f095ff4b07c0995b4fcac66aad874619&token=1661743324&lang=zh_CN#rd)
