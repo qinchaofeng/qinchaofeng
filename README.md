@@ -2,7 +2,7 @@
 
 - 🐧 熟练大数据架构，数据仓库，数据分析，研究过MPP数据库，也做过数据产品，欢迎来交流~
 - 🌱 热爱分享 <a href="https://mp.weixin.qq.com/s?__biz=MzI4MzE4MjQxOQ==&mid=2649364443&idx=3&sn=ce748f9966f79e4ee07b14c6f56c14b0&chksm=f39023e7c4e7aaf108aa1d5cf9153fc020cb402727b83f43862f99d6fe738277c80c5ec022d2&token=131764335&lang=zh_CN#rd" target="_blank">公众号『 数据社 』</a>
-- 😺 趣讲技术：<a href="https://blog.csdn.net/WindyQCF" target="_blank">CSDN 数据社</a> 
+- 😺 趣讲技术：<a href="www.datacluber.com" target="_blank">数据社</a> 
 - 💬 有问题欢迎加我微信：dataclub_bigdata
 ## 欢迎关注公众号：数据社
 ![](https://mmbiz.qpic.cn/mmbiz_png/z2DApiaibzMicicjiccLAibDxc3jzFr1RLnMh7RPgIsXXib0Nl4hh3fo9SOm1K3iaPS97lic4VPqjiaKN9Iia11yKDpahI0zg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
